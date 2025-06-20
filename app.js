@@ -8,7 +8,7 @@ Exercise 1 has been completed for you:
 
 const foods = [];  
 
-//console.log('Exercise 1 result:', foods);
+console.log('Exercise 1 result:', foods);
 
 /*
 Exercise 2: Add strings to the array
